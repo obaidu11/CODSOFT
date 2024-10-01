@@ -30,7 +30,7 @@ window.onload = () => {
           }
         } else {
           currentInput += value;
-          display.value = currentInput;
+          
         }
       });
     });
